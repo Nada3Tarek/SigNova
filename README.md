@@ -90,13 +90,27 @@ Sign Language Translation models and AI pipelines.
 - 📘 [Project Documentation](docs/SigNova-Documentation.pdf)
 - 🖼️ [Project Poster](docs/SigNova-Poster.pdf)
 
-🎥 **Media**
+## 🎥 Videos
 
-Marketing demo, screenshots and project assets.
+Explore SigNova through our project demonstrations.
 
-🎤 **Presentations**
+- 🎬 **[Marketing Video](https://youtu.be/uSZnAZEf0wo)**
+- 📱 **[Application Demo](https://drive.google.com/file/d/1xzAX0OidSPrbbW9zM3hgTh50NE7ZcmqV/view?usp=sharing)**
 
-Seminar presentations throughout the project journey.
+---
+
+## 🎤 Project Presentations
+
+Throughout the development of SigNova, the project was presented across multiple seminars to showcase its progress and evolution.
+
+- 📌 **Seminar 1 – Project Proposal**  
+  https://canva.link/4s5erl0obcz1o8a
+
+- 📌 **Seminar 2 – System Design & Progress**  
+  https://canva.link/31lgviwjm2g6za5
+
+- 📌 **Seminar 3 – Final Progress**  
+  https://canva.link/8jzw3mlm21rj4hd
 
 ---
 
