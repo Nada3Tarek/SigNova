@@ -87,8 +87,8 @@ Sign Language Translation models and AI pipelines.
 
 ## 📄 Documentation
 
-- 📘 [Project Documentation](./docs/SigNova-Documentation.pdf)
-- 🖼️ [Project Poster](./docs/SigNova-Poster.pdf)
+- 📘 [Project Documentation](https://github.com/Nada3Tarek/SigNova/blob/main/docs/SigNova-Documentation%20.pdf)
+- 🖼️ [Project Poster](https://github.com/Nada3Tarek/SigNova/blob/main/docs/SigNova-Poster.pdf)
 
 ---
 
