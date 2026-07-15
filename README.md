@@ -4,7 +4,7 @@
 
 ### 🌍 Breaking Communication Barriers Between Deaf and Non-Deaf People
 
-🚀 **AI-powered Sign Language Translation Platform**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=AI-Powered+Sign+Language+Translation;Bridging+Communication+Through+AI;Graduation+Project+2026" />
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
