@@ -85,9 +85,10 @@ RESTful APIs and authentication services.
 
 Sign Language Translation models and AI pipelines.
 
-📄 **Documentation**
+## 📄 Documentation
 
-Project documentation, poster and thesis.
+- 📘 [Project Documentation](docs/SigNova-Documentation.pdf)
+- 🖼️ [Project Poster](docs/SigNova-Poster.pdf)
 
 🎥 **Media**
 
