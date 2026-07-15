@@ -87,8 +87,10 @@ Sign Language Translation models and AI pipelines.
 
 ## 📄 Documentation
 
-- 📘 [Project Documentation](docs/SigNova-Documentation.pdf)
-- 🖼️ [Project Poster](docs/SigNova-Poster.pdf)
+- 📘 [Project Documentation](./docs/SigNova-Documentation.pdf)
+- 🖼️ [Project Poster](./docs/SigNova-Poster.pdf)
+
+---
 
 ## 🎥 Videos
 
@@ -108,15 +110,6 @@ Throughout the development of SigNova, the project was presented across multiple
 - 📌 **[Seminar 3 – Final Progress](https://canva.link/8jzw3mlm21rj4hd)**
 ---
 
-# 🚀 Future Improvements
-
-- 🌐 Real-time live translation
-- 🎥 Live camera recognition
-- 🌍 Support for multiple sign languages
-- ☁️ Cloud deployment
-- 🤝 AI-powered conversation assistant
-
----
 
 <div align="center">
 
