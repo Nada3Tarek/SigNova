@@ -2,9 +2,10 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class GlossService {
-static const apiKey = "YOUR_GROQ_API_KEY";
+  static const apiKey = "YOUR_GROQ_API_KEY";
   Future<String> textToGlossJson(String sentence) async {
-    final prompt = '''
+    final prompt =
+        '''
 You are an ASL gloss translator.
 
 TASK:
@@ -34,16 +35,10 @@ OUTPUT:
       body: jsonEncode({
         "model": "llama-3.1-8b-instant",
         "messages": [
-          {
-            "role": "system",
-            "content": "You output ONLY valid ASL gloss."
-          },
-          {
-            "role": "user",
-            "content": prompt
-          }
+          {"role": "system", "content": "You output ONLY valid ASL gloss."},
+          {"role": "user", "content": prompt},
         ],
-        "temperature": 0.1
+        "temperature": 0.1,
       }),
     );
 
@@ -61,8 +56,6 @@ OUTPUT:
         .where((word) => word.trim().isNotEmpty)
         .toList();
 
-    return jsonEncode({
-      "glosses": glosses,
-    });
+    return jsonEncode({"glosses": glosses});
   }
 }
