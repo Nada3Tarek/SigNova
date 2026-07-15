@@ -103,15 +103,9 @@ Explore SigNova through our project demonstrations.
 
 Throughout the development of SigNova, the project was presented across multiple seminars to showcase its progress and evolution.
 
-- 📌 **Seminar 1 – Project Proposal**  
-  https://canva.link/4s5erl0obcz1o8a
-
-- 📌 **Seminar 2 – System Design & Progress**  
-  https://canva.link/31lgviwjm2g6za5
-
-- 📌 **Seminar 3 – Final Progress**  
-  https://canva.link/8jzw3mlm21rj4hd
-
+- 📌 **[Seminar 1 – Project Proposal](https://canva.link/4s5erl0obcz1o8a)**
+- 📌 **[Seminar 2 – System Design & Progress](https://canva.link/31lgviwjm2g6za5)**
+- 📌 **[Seminar 3 – Final Progress](https://canva.link/8jzw3mlm21rj4hd)**
 ---
 
 # 🚀 Future Improvements
